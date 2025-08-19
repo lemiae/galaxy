@@ -29,12 +29,6 @@
    source venv/bin/activate
    venv\Scripts\activate
    ```bash
-  
-
-3. **Installer les dépendances**
-   ```bash
-   pip install -r requirements.txt
-   ```bash
 
 
 ## ▶️ Lancer le jeu
